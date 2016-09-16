@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoreApiApplication {
+public class CoreAPIApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CoreApiApplication.class, args);
+		SpringApplication.run(CoreAPIApplication.class, args);
 	}
 }
